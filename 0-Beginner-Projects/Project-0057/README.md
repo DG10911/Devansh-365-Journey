@@ -1,0 +1,13 @@
+# Project-0057 — Phone Number OSINT Checker
+
+## 📌 Description
+Phone Number OSINT Checker — beginner level project for cybersecurity, automation, or programming.
+
+## 🎯 Skills Practiced
+- Basic scripting
+- Problem solving
+- Automation
+- Debugging
+
+## 📝 Notes
+(Add your notes)

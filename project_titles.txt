@@ -1,0 +1,161 @@
+Basic Port Scanner
+Advanced Port Scanner (Multi-threaded)
+Subdomain Enumerator
+Directory Brute Forcer
+HTTP Header Extractor
+Website Status Checker
+DNS Lookup Tool
+WHOIS Information Fetcher
+Email Pattern Extractor
+PDF Metadata Analyzer
+EXIF Image Metadata Scanner
+Log File Highlighter
+Network Ping Sweeper
+MAC Address Finder
+File Integrity Checker
+Password Strength Checker
+Wordlist Generator
+Hash Identifier
+Hash Cracker (Dictionary Based)
+System Info Reporter
+Clipboard Monitor
+Screenshot Capture Script
+Keylogger (Local Test Only)
+Network Traffic Logger
+PCAP File Analyzer
+Simple Packet Sniffer
+DNS Sniffer Tool
+ARP Spoof Detection Script
+Firewall Log Analyzer
+Python Reverse Shell (Local Test Environment)
+SSH Auto Login Script
+Basic Vulnerability Scanner
+IP Reputation Checker
+SSL Certificate Checker
+TLS Version Scanner
+Threat Intelligence URL Checker
+Sensitive Data Finder (Regex-based)
+URL Redirect Checker
+SQL Query Analyzer
+API Response Analyzer
+Basic XSS Payload Generator
+Reflected XSS Testing Lab
+Stored XSS Demonstration App
+DOM XSS Testing Playground
+CSRF Attack Demonstrator
+Clickjacking Vulnerable Demo Page
+CORS Misconfiguration Tester
+Open Redirect Vulnerability Lab
+SQL Injection Testing Playground
+Blind SQL Injection Automation Tool
+Error-based SQLi Extractor
+Time-based SQLi Detector
+HTML Injection Vulnerable Demo
+Path Traversal Attack Sandbox
+LFI/RFI Injection Lab
+File Upload Filter Bypass Lab
+Broken Authentication Demo App
+Broken Access Control Mini App
+IDOR Vulnerability Explorer
+Session Hijacking Demonstration
+JWT Token Decoder and Analyzer
+JWT Forgery None-Algorithm Lab
+JWT Bruteforce Testing Tool
+OAuth2 Misconfiguration Lab
+API Key Leakage Detection Tool
+API Endpoint Fuzzer
+Captcha Bypass Automation Script
+Rate Limit Bypass Tester
+User Enumeration Detection Lab
+Web Admin Panel Bruteforce Tool
+URL Rewrite Bypass Toolkit
+Host Header Injection Demo
+HTTP Parameter Pollution Lab
+CSP Bypass Demonstration
+HTTP Request Smuggling Mini Lab
+Web Cache Poisoning Playground
+SSRF Testing Toolkit
+SSRF → Internal Port Scanner
+Cloud Metadata Exploitation Lab
+GraphQL Security Analyzer
+AWS S3 Public Access Checker
+AWS IAM Excess Permission Analyzer
+AWS CloudTrail Log Analyzer
+AWS Security Group Exposure Scanner
+AWS EC2 Metadata Exploitation Lab
+AWS Lambda Security Testing Lab
+AWS KMS Encryption Demo Project
+AWS Secrets Manager Leakage Detector
+AWS API Gateway Security Testing Toolkit
+AWS Cognito Misconfiguration Analyzer
+GCP Storage Bucket Security Analyzer
+GCP IAM Privilege Escalation Detector
+GCP Metadata Server SSRF Exploit Lab
+GCP Cloud Run Security Hardening Demo
+GCP Cloud Functions Pentest Lab
+GCP KMS Usage & Exposure Audit
+GCP Logging Threat Detection Pipeline
+Azure Blob Storage Public Access Tester
+Azure IAM Privilege Escalation Lab
+Azure AD Misconfiguration Tester
+Azure VM Security Baseline Scanner
+Azure Key Vault Secrets Exposure Checker
+Azure Function Pentesting Lab
+Azure Defender Alert Simulation Lab
+Azure Sentinel SIEM Rule Builder
+Kubernetes RBAC Permission Analyzer
+Kubernetes Secret Exposure Detector
+Kubernetes Pod Escape Demonstration
+Kubernetes Network Policy Testing Lab
+Kubernetes Misconfiguration Scanner
+Container Vulnerability Scanner (Docker)
+Container Escape Attack Lab
+Container Registry Security Checker
+Serverless Enumeration Toolkit
+Cloud Cost Anomaly Security Detector
+Multi-Cloud IAM Access Visualizer
+Cloud Attack Surface Mapper
+Cloud Service Enumeration Script
+Cloud Hardening Baseline Generator
+Multi-Cloud Incident Response Simulation
+Cloud Honeypot Deployment Lab
+Linux Privilege Escalation Lab
+Windows Privilege Escalation Lab
+Sudo Misconfiguration Exploit Lab
+SUID Binary Abuse Demonstration
+PATH Hijacking PrivEsc Lab
+Environment Variable Injection Lab
+Cron Job PrivEsc Exploitation Lab
+Weak File Permissions Exploit Lab
+Capabilities Abuse PrivEsc Lab
+SSH Key Hijacking Simulation
+Password Cracking Lab (Hashcat)
+Kerberoasting Attack Simulator
+AS-REP Roasting Demonstration
+Pass-the-Hash Attack Simulation
+Pass-the-Ticket Attack Simulation
+Golden Ticket Attack Lab
+Silver Ticket Attack Lab
+NTLM Relay Attack Demonstration
+LDAP Enumeration Red Team Toolkit
+Active Directory Attack Path Mapper
+BloodHound Attack Graph Analyzer
+LSA Secrets Dumping Lab
+SAM Hash Dumping Demonstration
+Mimikatz Credential Extraction Lab
+Windows Event Log Evasion Lab
+Basic C2 Implant (Educational Only)
+Reverse Shell Payload Generator
+Obfuscated Payload Development Lab
+Custom Keylogger (Educational)
+Custom Ransomware Simulator (Non-destructive)
+Process Injection Demonstration
+DLL Injection Demonstration
+Reflective DLL Loading Playground
+Shellcode Execution Lab
+Mutex-based Malware Evasion Simulator
+DNS Tunneling Demonstration
+ICMP Tunneling Tool
+Web Shell Deployment Playground
+Pivoting & Port Forwarding Lab
+Privilege Persistence Mechanisms Lab

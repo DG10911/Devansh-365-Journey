@@ -1,0 +1,100 @@
+101. Advanced Port Scanner (SYN/ACK Scan)
+102. Multi-threaded Subdomain Bruteforcer
+103. Recursive Directory Fuzzer
+104. Advanced HTTP Header Analyzer
+105. SSL/TLS Cipher Suite Scanner
+106. Web Technology Fingerprinting Tool
+107. Advanced DNS Enumeration Script
+108. DNS Zone Transfer Automation Tool
+109. SMTP Spoof Detection Toolkit
+110. FTP Misconfiguration Scanner
+111. SSH Hardening Assessment Tool
+112. Nmap Advanced Automation Suite
+113. Packet Sniffer with Filters
+114. ARP Spoof Attack Simulation
+115. Local WiFi Deauthentication Simulator
+116. Beginner IDS/IPS Detection Playground
+117. Log Correlation Engine (Intermediate)
+118. Syslog to SIEM Forwarder Script
+119. Linux Process Activity Monitor
+120. Windows Event Log Extractor
+121. Credential Leak Detection Script
+122. Password Policy Auditor
+123. Secure Password Generator (Policy-based)
+124. JWT Integrity Checker
+125. JWT Attack Simulation Toolkit
+126. OAuth2 Vulnerability Testing Suite
+127. API Token Security Analyzer
+128. Broken Access Control Analysis Tool
+129. SQL Injection Detection Module
+130. Blind SQL Injection Payload Generator
+131. Boolean-based SQL Injection Detector
+132. SSTI Exploitation Playground
+133. Command Injection Detection Script
+134. Path Traversal Auto-Scanner
+135. CORS Security Testing Framework
+136. CSP Analyzer and Violations Detector
+137. Web Cache Deception Detector
+138. Session Fixation Exploitation Lab
+139. Cookie Security Analyzer (Advanced)
+140. CAPTCHA Strength Testing Tool
+141. Rate Limit Detection and Bypass Suite
+142. WebSockets Security Testing Platform
+143. Advanced BurpSuite Extension (Proxy API)
+144. Custom Web Fuzzer (HTTP/JSON/XML)
+145. WordPress Security Scanner
+146. Drupal Vulnerability Automation Tool
+147. NodeJS Security Analyzer
+148. Python Flask Security Scanner
+149. Django Security Analyzer Tool
+150. JWT Bruteforce Automation Lab
+151. Open Redirect Vulnerability Scanner
+152. IDOR Parameter Miner
+153. 404/403 Bypass Attack Toolkit
+154. WAF Fingerprinting Tool
+155. WAF Evasion Payload Generator
+156. Advanced Recon Framework
+157. SSL Certificate Pinning Analyzer
+158. HTTP Request Smuggling Detector
+159. Host Header Attack Toolkit
+160. Prototype Pollution Vulnerability Scanner
+161. Browser Security Headers Analyzer
+162. OSINT Social Graph Analyzer
+163. OSINT Corporate Recon Framework
+164. Username Pattern Generator (OSINT)
+165. Metadata Removal Automation Tool
+166. Document Fingerprinting Analyzer
+167. Threat Hunting Log Search Tool
+168. Log Pattern Anomaly Detector
+169. Process Injection Simulation (Safe)
+170. Advanced Local Keylogger (Safe)
+171. Clipboard Exfiltration Simulation (Local)
+172. Network Beacon Detection Tool
+173. PowerShell Security Analyzer
+174. Linux System Hardening Baseline Generator
+175. Windows Hardening Baseline Automation
+176. Backup Automation Framework
+177. Compliance Checker (Intermediate)
+178. Secure File Transfer Automation Tool
+179. Encrypted Notes Manager
+180. Encrypted Local File Storage Utility
+181. Advanced Port Forwarding Toolkit
+182. Custom SSH Remote Command Executor
+183. Python Remote Execution Framework
+184. Cloud Asset Inventory Script
+185. SIEM Log Downloader (API-based)
+186. SOC Alert Enrichment Script
+187. Threat Intelligence Aggregation Tool
+188. SOC Case Notes Auto-Formatter
+189. Email Header Deep Analyzer
+190. MITRE Technique Mapping Engine
+191. Threat Feed Normalization Script
+192. IOC to Sigma Rule Generator
+193. IOC to YARA Rule Generator
+194. IOC to Suricata Rule Automation
+195. IOC Correlation Engine
+196. Network Event Timeline Generator
+197. Web Server Log Analyzer (Advanced)
+198. Proxy Log Analysis Toolkit
+199. Intermediate Malware Signature Extractor
+200. Threat Intelligence Email Auto-Reporter

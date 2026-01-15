@@ -1,0 +1,100 @@
+Basic Port Scanner
+Subdomain Enumerator
+Directory Scanner
+HTTP Header Viewer
+Website Status Checker
+DNS Lookup Tool
+Ping Sweep Automation
+MAC Address Lookup
+Basic Encryption Tool
+Hash Generator Utility
+File Integrity Checker
+Wordlist Generator
+Password Strength Checker
+Log File Formatter
+IP Geolocation Finder
+Email Validator Script
+Beginner Keylogger (Local Only)
+Clipboard Monitor Tool
+Screenshot Capture Script
+File Organizer Utility
+Duplicate File Finder
+System Info Display Tool
+Network Interface Viewer
+Basic Packet Sniffer
+Python Calculator
+Temperature Converter
+CLI To-Do Application
+Contact Book Manager
+CLI Notes Application
+Local Password Manager
+Command Line Timer Tool
+Weather Fetcher API Script
+URL Shortener Utility
+Basic Web Scraper
+HTML Link Extractor
+Regex Pattern Finder
+Batch File Renamer
+Image Metadata Scanner
+PDF Metadata Reader
+Local Network Chat App
+Local File Transfer Tool
+Guess the Number Game
+Rock Paper Scissors Game
+Tic Tac Toe Game
+Prime Number Generator
+Number System Converter
+JSON Beautifier Tool
+CSV Reader Script
+Simple SQL Query Runner
+SQLite Student Records App
+Text File Search Script
+Firewall Log Reader
+Simple SIEM Log Parser
+Beginner Threat Intel Parser
+Basic Recon Automation Script
+OSINT Username Checker
+Phone Number OSINT Checker
+Email Breach Lookup Tool
+Linux Command Automator
+Directory Size Analyzer
+File Backup Script
+File Compression Script
+File Extraction Script
+System Resource Monitor
+CPU Usage Logger
+RAM Usage Logger
+Disk Space Reporter
+Port Availability Checker
+Simple Web Crawler
+Bulk Image Downloader
+Broken Link Checker
+Basic API Tester
+HTTP Response Analyzer
+Beginner Load Tester
+WebSocket Test Client
+CSV to JSON Converter
+JSON to CSV Converter
+INI File Reader
+YAML File Reader
+Rule-Based Chatbot
+Terminal Alarm Clock
+Python + SQL ToDo App
+CSV CRUD Application
+XOR Encryption Script
+AES Encryption Tool
+Dictionary Hash Cracker
+Custom Password Generator
+URL Redirect Checker
+Bug Bounty Notes Generator
+WHOIS Lookup Tool
+Basic ARP Scanner
+Basic DNS Sniffer
+Port Banner Grabber
+Proxy Availability Checker
+Website Screenshot Tool
+Log File Merger
+Data Masking Script
+Text Encryption Script
+Simple Port Monitor
+Simple Network Latency Logger
