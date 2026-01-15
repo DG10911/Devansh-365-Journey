@@ -1,0 +1,100 @@
+1. Windows Event Log Deep Analyzer
+2. Linux Syslog Correlation Engine
+3. Firewall Log Threat Detection Script
+4. Proxy Log Anomaly Detection Tool
+5. DNS Log Threat Hunting Toolkit
+6. DHCP Log Event Analyzer
+7. Windows Security Event Map (MITRE Mapped)
+8. Windows Sysmon Advanced Detection Engine
+9. Windows ETW Log Analyzer (Blue Team)
+10. Active Directory Authentication Log Correlator
+11. Kerberos Attack Detection Engine
+12. NTLM Authentication Abuse Detection Script
+13. PowerShell Operational Log Analyzer
+14. WMI Event Monitoring Framework
+15. Process Creation Event Analyzer
+16. Parent-Child Process Anomaly Detector
+17. Registry Modification Detection Tool
+18. Scheduled Task Abuse Detection Engine
+19. Service Creation & Tampering Detector
+20. DLL Injection Detection Script
+21. Kernel Callback Abuse Detection Engine
+22. LSASS Access Monitoring Tool
+23. File Access & Ransomware Behavior Detector
+24. Lateral Movement Pattern Detection Engine
+25. Remote Execution Detection Script
+26. PsExec Activity Detector
+27. WinRM Abuse Detection Engine
+28. RDP Attack Detection & Correlation Tool
+29. Brute-force + Spray Detection Suite
+30. MFA Abuse & Fatigue Attack Detector
+31. Network Beaconing Pattern Detector
+32. Encrypted Traffic Analysis Tool
+33. C2 Traffic Detection (HTTP/HTTPS)
+34. DNS Tunneling Detection Engine
+35. ICMP Tunneling Detection Toolkit
+36. SMB Lateral Movement Detection Engine
+37. NetFlow Traffic Deep Analyzer
+38. Deception / Honeypot Event Collector
+39. Honeytoken Alert Correlation Tool
+40. Suricata Alert Correlation Engine
+41. Zeek Network Log Analyzer
+42. IDS/IPS Multi-source Event Correlator
+43. Sigma Rule Creation & Testing Framework
+44. Sigma Rule → SIEM Converter
+45. YARA Malware Detection Rule Generator
+46. YARA Memory Scanner Automation
+47. File Hash Reputation Checker
+48. Malware Behavior Log Analyzer
+49. Suspicious Persistence Detection Framework
+50. MITRE ATT&CK Detection Mapping Engine
+51. SOC Alert Triage Automation Script
+52. SOC Alert Prioritization Engine (AI/Static)
+53. Incident Enrichment Automation Framework
+54. IOC Correlation Engine (URLs/Hashes/IPs)
+55. Threat Intelligence Feed Merger
+56. OSINT + TI Automated Alert Enricher
+57. Email Header Analyzer (Blue Team Edition)
+58. Malicious URL Analyzer (Blue Edition)
+59. Phishing Detection Rule Generator
+60. Spam/DMARC/SPF/BIMI Analyzer
+61. Browser Artifact Forensics Tool
+62. Memory Dump Analyzer (Volatility Automation)
+63. Disk Image Triage Automation Tool
+64. Windows Jump List Forensics Tool
+65. Prefetch File Forensics Analyzer
+66. Shimcache & Amcache Event Parser
+67. MFT (Master File Table) Parser Automation
+68. Cloud Trail Log Threat Detection Engine
+69. Azure Sentinel Detection Engineering Lab
+70. GCP Cloud Logging Detection Framework
+71. SIEM Log Normalization Engine
+72. SIEM Correlation Rule Pack Generator
+73. Threat Hunting Query Builder (ELK/Splunk)
+74. SOC Case Management Automation Script
+75. Detection-as-Code CI/CD Pipeline
+76. Log Baselining Engine (Behavioral)
+77. Insider Threat Detection Framework
+78. Data Exfiltration Detection Engine
+79. Privilege Misuse Detection Automation
+80. File Integrity Monitoring Toolkit
+81. Endpoint Telemetry Aggregation Engine
+82. EDR Alert Analyzer (Multi-source)
+83. UEBA (User Behavior Analytics) Engine
+84. Suspicious Logon Pattern Detector
+85. Remote Session Hijack Detection Tool
+86. Account Lockout Investigation Automation
+87. Security Baseline Drift Detection Engine
+88. Zero Trust Log Analyzer
+89. Blue Team Recon Mapping Tool
+90. Asset Visibility & Shadow IT Detection
+91. Network Device Log Analyzer (Switch/Router)
+92. VPN Activity Monitoring Engine
+93. Cloud + On-Prem Hybrid Log Correlation Engine
+94. SaaS Security Activity Monitoring Tool
+95. OAuth Token Abuse Detection Engine
+96. API Abuse Detection Framework (Blue Team)
+97. Ransomware Kill Chain Detection Engine
+98. Post-Incident Timeline Auto-Generator
+99. SOC Simulated Live Attack Exercise Toolkit
+100. Full Enterprise Blue Team Simulation Sandbox
