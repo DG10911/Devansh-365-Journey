@@ -1,0 +1,100 @@
+1. Username OSINT Correlation Engine
+2. Email Breach & Exposure Analyzer
+3. Phone Number Intelligence Toolkit
+4. Social Media Handle OSINT Matcher
+5. Multi-Platform Username Discovery Suite
+6. Person Digital Footprint Mapping Tool
+7. Public Records Aggregation Engine
+8. Identity Verification Cross-Check Tool
+9. Full Person OSINT Profile Generator
+10. Face Recognition Search Automation (Safe)
+11. Reverse Image Search Multi-Engine Tool
+12. Image Metadata Collection & Analyzer
+13. Camera Model & Lens Metadata Fingerprinter
+14. Geolocation Clue Extractor (Shadows, Weather)
+15. Satellite Image Location Guessing Engine
+16. Building/Structure Recognition OSINT
+17. Vehicle Plate & Make OSINT Analyzer
+18. AI-based Image Object OSINT Scanner
+19. Video Frame-by-Frame OSINT Extractor
+20. Image-to-Map Reverse GEO Engine
+21. Dark Web Keyword Monitoring Tool (Safe)
+22. Dark Web Breach Lookup Automation
+23. Dark Web Marketplace OSINT Scraper (Safe)
+24. Onion Service Discovery Toolkit
+25. TOR Exit Node Pattern Analyzer
+26. Surface-to-Dark-Web Indicator Correlation Tool
+27. Reddit Threat Intelligence Harvester
+28. Twitter/X OSINT Monitoring Toolkit
+29. Instagram OSINT Metadata Extractor
+30. LinkedIn Corporate Recon Automation
+31. GitHub Developer OSINT Profiler
+32. Social Graph Relationship Mapping Engine
+33. Social Media Activity Time Correlator
+34. Influencer/Creator OSINT Analyzer
+35. Public Photo Source Discovery Tool
+36. Deleted Post Footprint Analyzer (Safe)
+37. Political Sentiment & Influence OSINT Scanner
+38. Hashtag Trend Intelligence Engine
+39. CodeSnippets → Identity Correlation Engine
+40. Discord / Telegram OSINT Analyzer (Metadata Only)
+41. Organization Employee Mapping Tool
+42. Corporate Infrastructure Footprint Mapper
+43. Subdomain Enumeration OSINT Framework
+44. WHOIS Deep Profile Aggregation Tool
+45. IP History & Ownership Analyzer
+46. ASN Recon Toolkit
+47. SSL/TLS Certificate Transparency Monitor
+48. Public Cloud Asset Discovery Tool
+49. Open Bucket (Cloud Storage) Discovery Engine
+50. GitLeaks OSINT Leakage Detector
+51. Malicious Domain Threat Correlation Engine
+52. VirusTotal Multi-Source Analyzer (OSINT Mode)
+53. Public Sandbox Behavior Analyzer
+54. Threat Actor Tracking Dashboard (OSINT-only)
+55. Ransomware Gang Leak Monitor
+56. OSINT IOC Collection Engine (IPs/URLs/Hashes)
+57. Data Broker Footprint Checker
+58. Public Exposure Monitoring Engine
+59. Credential Exposure Heatmap Generator
+60. Pastebin Leak Monitor (Safe)
+61. Government Open Data Scraping Framework
+62. OSINT for Journalist Investigation Toolkit
+63. Crisis & War Zone OSINT Analyzer
+64. Protest & Public Event GEO-OSINT Detector
+65. Maritime OSINT Vessel Tracker
+66. Aircraft Flight Path OSINT Tracker
+67. Border Activity OSINT Analyzer
+68. Missing Person OSINT Workflow Tool
+69. Disaster Zone Satellite OSINT Engine
+70. Sports Event GEO-OSINT Analyzer
+71. City-Level GEO-OSINT Object Mapper
+72. OSINT Site Cloning (Safe Analysis Only)
+73. Public Photo Timestamp Analyzer
+74. Facial Landmark Comparison Tool (Safe)
+75. Public Identity Impersonation Detector
+76. Badge/Uniform Recognition OSINT Engine
+77. OSINT for Scam/Fraud Detection Tool
+78. Deepfake & Synthetic Media OSINT Tool
+79. Music/Sound Source GEO-OSINT Analyzer
+80. OSINT Clue Graph Builder (People/Assets)
+81. OSINT Case Evidence Organizer
+82. Digital Footprint Timeline Builder
+83. Reverse Domain → Person Attribution Model
+84. Public Blockchain OSINT Analyzer
+85. NFT Metadata OSINT Explorer
+86. Crypto Transaction OSINT Mapper
+87. Hidden Connection Finder Tool
+88. Stalkerware OSINT Pattern Identifier (Safe)
+89. OSINT Activity Pattern Analyzer
+90. Government ID Exposure Checker (Safe)
+91. Public Wi-Fi Access Point OSINT Analyzer
+92. MAC Address Vendor Intelligence Tool
+93. Public Bluetooth OSINT Scanner (Safe)
+94. OSINT Username Lifetime Analysis Tool
+95. OSINT Nickname Variation Generator
+96. Deep Profile Wordlist Generator
+97. OSINT Case Classification AI Engine
+98. Public Profile Similarity Scoring Model
+99. Person–Company Relationship Attribution Engine
+100. Full OSINT Intelligence Report Auto-Generator
