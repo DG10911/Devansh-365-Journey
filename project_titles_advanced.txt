@@ -1,0 +1,100 @@
+201. AWS IAM Attack Path Analyzer
+202. AWS S3 Ransomware Simulation Lab
+203. AWS CloudTrail Suspicious Activity Detector
+204. AWS EC2 Hardening Automation Tool
+205. AWS Lambda Privilege Escalation Playground
+206. AWS Secrets Manager Blind Enumeration Script
+207. AWS KMS Abuse & Misuse Detection Tool
+208. AWS Cognito Token Forgery Lab
+209. AWS API Gateway Security Testing Framework
+210. AWS Organizations Misconfiguration Analyzer
+211. GCP IAM Attack Surface Mapper
+212. GCP Cloud Storage Public Exposure Scanner
+213. GCP BigQuery Access Misconfiguration Detector
+214. GCP Cloud Run PrivEsc Playground
+215. GCP Cloud Functions Exploitation Lab
+216. GCP Metadata Server Privilege Escalation Lab
+217. GCP KMS Key Leakage Detector
+218. GCP Firestore Security Misconfiguration Detector
+219. GCP VPC Network Threat Mapper
+220. Azure AD Token Forgery Lab
+221. Azure Role-Based PrivEsc Path Analyzer
+222. Azure KeyVault Secret Extraction Simulation
+223. Azure Storage Container Attack Toolkit
+224. Azure Function PrivEsc Attack Lab
+225. Azure Resource Graph Attack Surface Mapper
+226. Azure Network Security Analyzer
+227. Azure API Management Security Testing Script
+228. Azure Kusto Query Detection Engineering Lab
+229. Kubernetes Privilege Escalation Lab
+230. Kubernetes Pod-to-Host Escape Simulation
+231. Kubernetes Supply Chain Attack Simulation
+232. Kubernetes Admission Controller Bypass Lab
+233. Kubernetes Service Account Token Abuse Toolkit
+234. Kubernetes Network Segmentation Analyzer
+235. Kubernetes Secrets Hardening Automation Tool
+236. Docker Container Breakout Simulation
+237. Docker Hardening Benchmark Toolkit
+238. Docker Image Supply Chain Attack Lab
+239. Advanced Container Registry Security Analyzer
+240. DevSecOps CI/CD Secrets Leak Detector
+241. DevSecOps Pipeline Poisoning Attack Simulation
+242. DevSecOps Infrastructure Drift Detector
+243. DevSecOps Artifact Corruption Simulation
+244. CI/CD Dependency Confusion Attack Lab
+245. IaC Misconfiguration Scanner (Terraform)
+246. IaC Security Analyzer (CloudFormation)
+247. IaC Policy-as-Code Enforcement Tool
+248. GitHub Actions Security Analyzer
+249. GitLab CI/CD Security Analyzer
+250. Jenkins Security Hardening Toolkit
+251. Supply Chain Security Analyzer
+252. Software Bill of Materials (SBOM) Generator
+253. Advanced Threat Modeling Automation Tool
+254. AI/ML Model Supply Chain Attack Lab
+255. AI Prompt Injection Detection Toolkit
+256. AI Model Poisoning Attack Simulator
+257. AI Model Data Extraction Attack Lab
+258. NLP Adversarial Attack Generator
+259. LLM Jailbreak Detection Engine
+260. LLM Malware Behavior Classifier
+261. LLM Prompt Sanitization Framework
+262. AI-Based Phishing Email Generator (Safe)
+263. AI Malware Signature Generator (Safe)
+264. Threat Intelligence Automation Engine
+265. SOC Alert Prioritization AI Model
+266. AI-driven Threat Hunting Toolkit
+267. Machine Learning–Powered Malware Classifier
+268. Ransomware Behavior Analyzer
+269. Static Malware Analysis Automation
+270. Dynamic Malware Sandbox (Safe Simulation)
+271. Advanced Memory Forensics Lab
+272. Incident Response Live Triage Toolkit
+273. Windows Registry Forensics Analyzer
+274. Windows Disk Forensics Automation
+275. Linux Disk Forensics Toolkit
+276. Browser Forensics Analysis Suite
+277. Packet Capture Deep Analysis Engine
+278. SIEM Detection Rule Generator (Advanced)
+279. Sigma-to-YARA Rule Converter
+280. Sigma-to-Suricata Rule Converter
+281. SOC Automation Playbook Generator
+282. Threat Intelligence → SIEM Pipeline Builder
+283. Endpoint Telemetry Analyzer
+284. Network Lateral Movement Detector
+285. Beaconing Pattern Analyzer
+286. C2 Traffic Classification Model
+287. Domain Generation Algorithm (DGA) Detector
+288. Encrypted Traffic Analysis Tool
+289. Advanced SOC Investigation Simulator
+290. Insider Threat Detection Engine
+291. Cloud Honeypot Advanced Deployment
+292. Internet-wide Exposure Scanner
+293. Red-Team Command & Control Simulator (Safe)
+294. Post-Exploitation Framework (Local Test)
+295. Windows Advanced PrivEsc Chain Simulator
+296. Linux Advanced PrivEsc Chain Simulator
+297. Kerberos Attack Simulation Suite
+298. Active Directory Exploitation Toolkit
+299. Enterprise Attack Simulation Lab
+300. Cyber Range Advanced Training Scenario
