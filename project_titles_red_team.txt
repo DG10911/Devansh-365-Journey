@@ -1,0 +1,100 @@
+1. Internal Network Recon Automation Toolkit
+2. Advanced LLMNR & NBNS Poisoning Lab
+3. Kerberos Golden Ticket Full Chain Simulator
+4. Kerberos Silver Ticket Privilege Escalation Lab
+5. Kerberos Constrained Delegation Abuse Toolkit
+6. Kerberos Unconstrained Delegation Attack Lab
+7. Kerberos S4U2Self Exploitation Simulator
+8. NTLM Relay Advanced Attack Automation
+9. Pass-the-Hash Attack Suite (Advanced)
+10. Pass-the-Ticket Attack Toolkit
+11. Overpass-the-Hash Attack Simulator
+12. Skeleton Key Malware Simulation (Safe)
+13. DCShadow Attack Simulation Playground
+14. DCSync Attack + Detection Evasion Lab
+15. Advanced AD Enumeration Automation Framework
+16. Forest & Domain Trust Abuse Toolkit
+17. AD Certificate Services (ESC1–ESC8) Attack Suite
+18. AD ACL Abuse & ACE Misconfig Analyzer
+19. SIDHistory Privilege Exploitation Lab
+20. Shadow Admin Identification & Exploitation
+21. Group Policy Preference Credential Abuse Lab
+22. Kerberoasting Automation Engine (Advanced)
+23. AS-REP Roasting Attack Simulation
+24. Token Impersonation & Manipulation Toolkit
+25. Windows Access Token Abuse Playground
+26. LSASS Memory Dumping Advanced Lab
+27. DPAPI Credential Extraction Toolkit
+28. Advanced Windows API Call Injection Lab
+29. Process Hollowing + DLL Injection Playground
+30. Reflective DLL Loading Deep Dive Lab
+31. Inline Hooking Attack Simulation
+32. Kernel Driver Exploitation (Safe Simulation)
+33. ETW (Event Tracing for Windows) Evasion Toolkit
+34. AMSI Bypass Generation Lab (Safe)
+35. PowerShell Obfuscation Attack Generator
+36. Registry-based Persistence Simulation Lab
+37. WMI Persistence & Lateral Movement Toolkit
+38. COM Object Hijacking Attack Lab
+39. Scheduled Task Persistence Automation
+40. Startup Folder / RunKey Persistence Toolkit
+41. C2 Implant Development (Safe Educational)
+42. Cobalt Strike Beacon Simulation Framework
+43. Sliver C2 Automated Deployment Lab
+44. Mythic C2 Payload Simulation Toolkit
+45. Custom HTTP/S C2 Implant (Safe)
+46. DNS C2 Traffic Simulator
+47. ICMP C2 Communication Simulation Suite
+48. WebSocket C2 Attack Simulation
+49. Covert Channel Data Exfiltration Toolkit
+50. Data Staging & Exfiltration Lab (Safe Files)
+51. Ransomware Chain Simulation (File-safe)
+52. Reverse Shell Generator (Encrypted)
+53. Port Knocking C2 Trigger Simulator
+54. Pivoting & Port Forwarding Automation
+55. SOCKS Proxy Pivot Chain Generator
+56. Internal LDAP Enumeration Toolkit
+57. MSSQL Lateral Movement Toolkit
+58. WinRM Lateral Movement Automation
+59. PsExec Abuse Toolkit
+60. RDP Misconfiguration Exploitation Simulator
+61. Kerberos Delegation Lateral Movement Lab
+62. Credential Dumping Automation Engine
+63. NTDS.dit Extraction Simulation Lab
+64. Network Share Exploitation Toolkit
+65. Advanced SMB Exploitation Playground
+66. PrinterBug Attack Simulation
+67. PetitPotam + NTLM Relay Full Chain Lab
+68. DFSCoerce / MS-RPRN Abuse Toolkit
+69. Shadow Copy Credential Extraction Lab
+70. Advanced Impacket Automation Framework
+71. Internal Network Mapping Visualizer
+72. ARP Poisoning Man-in-the-Middle Lab
+73. Advanced MITM Injection Toolkit
+74. Rogue DHCP Attack Simulator
+75. IPv6 MITM Attack Chain Simulation
+76. IPv6 DHCPv6 Rogue Attack Analyzer
+77. WiFi Evil Twin Attack Simulation (Local Only)
+78. WPA Enterprise Credential Harvest Simulator
+79. Rogue AP Detection Evasion Techniques
+80. Bluetooth Lateral Movement (Safe Simulation)
+81. Cloud-to-OnPrem Pivoting Lab
+82. OnPrem-to-Cloud Lateral Movement Toolkit
+83. Hybrid AD Attack Surface Analyzer
+84. MFA Fatigue Attack Simulator (Safe Version)
+85. Push Notification Bombing Simulation
+86. Secure Password Spray + Lockout Evasion Lab
+87. Brute-force + CAPTCHA Bypass Attack Toolkit
+88. OS Credential Manager Abuse Lab
+89. KeePass Credential Extraction Simulator
+90. Browser Credential Theft Simulation
+91. Browser Session Hijacking Lab
+92. OAuth Token Theft & Replay Simulation
+93. Cookie Theft & Session Fixation Playground
+94. Insider Threat Abuse Simulation Framework
+95. User Impersonation Chain Attack Lab
+96. Document Macro Exploit Simulation (Safe)
+97. HTA Payload Execution Lab
+98. HTML Smuggling Attack Simulator
+99. PDF-based Exploit Execution (Safe Sandbox)
+100. Full Enterprise Red Team Operation Simulator
