@@ -1,0 +1,200 @@
+Introduction to Cyber Security
+How the Web Works
+Linux Fundamentals Part 1
+Linux Fundamentals Part 2
+Linux Fundamentals Part 3
+Terminal Basics
+OpenVPN Fundamentals
+Network Fundamentals
+Intro to Offensive Security
+Pentesting Fundamentals
+Basic Computer Security
+Intro to SIEM
+Nmap Live Host Discovery
+Nmap Basic Port Scanning
+Nmap Advanced Scanning
+Intro to Burp Suite
+Web Hacking Fundamentals
+OWASP Top 10 – Overview
+OWASP Top 10 – Practical Labs
+Introduction to Web Applications
+Introduction to Networking
+Introduction to Windows
+Windows Fundamentals 1
+Windows Fundamentals 2
+Windows Fundamentals 3
+DNS in Detail
+HTTP in Detail
+Intro to Python for Security
+Basic Malware Intro
+Intro to Cryptography
+Hashing & Cracking Basics
+OSINT Basics
+Google Dorking Training
+Shodan for Beginners
+Intro to Steganography
+Password Cracking Beginner Lab
+Hydra Basics
+File Inclusion Basics
+Basic SQL Injection Lab
+Path Traversal Basics
+Intro to Wireshark
+Basic Packet Analysis
+Intro to Forensics
+Cracking Passwords with John
+Basic Reverse Engineering
+Basic Privilege Escalation Linux
+Basic Privilege Escalation Windows
+TryHackMe Advent of Cyber
+Agent Sudo
+Smag Grotto
+Basic Pentesting
+VulnNet Node
+VulnNet Active
+VulnNet Internal
+Bounty Hacker
+Kenobi
+RootMe
+Ice
+Steel Mountain
+Ignite
+Mr Robot
+Pickle Rick
+Library
+Overpass
+Overpass 2 Hacked
+Anonymous Playground
+Simple CTF
+Relevant
+Mustacchio
+Blue
+Alfred
+Ignite 2
+HackPark
+Retro
+Blueprint
+Anthem
+Chill Hack
+Brooklyn Nine Nine
+DogCat
+Git Happens
+Bolt
+Year of the Rabbit
+Unbaked Pie
+Daily Bugle
+Jack
+Tomghost
+Vulnversity
+Toolbox
+Res
+Buffer Overflow Prep
+Buffer Overflow Attack
+SQL Injection Advanced
+XSS Advanced
+Burp Suite Advanced Tools
+SSRF Advanced Lab
+Web Enumeration Mastery
+Hydra Advanced Techniques
+PrivEsc Linux Advanced
+PrivEsc Windows Advanced
+Attacking Kerberos Basics
+Attacktive Directory
+Blue Team Basics
+Post-Exploitation Basics
+Pivoting Fundamentals
+Pivoting Advanced Lab
+Red Team Recon Basics
+Lateral Movement Basics
+Kerberoasting Deep Dive
+AS-REP Roasting Deep Dive
+Token Impersonation Lab
+Pass-the-Hash Deep Dive
+Pass-the-Ticket Deep Dive
+Golden Ticket Attack Lab
+Silver Ticket Attack Lab
+Mimikatz Deep Dive
+SMB Enumeration Advanced
+RDP Exploitation
+Eternal Blue Walkthrough
+Eternal Blue Advanced
+Active Directory Enumeration
+Hashcat Advanced
+Wordlist Generation Workshop
+Web Hacking Advanced Labs
+Injection Attacks Advanced
+File Upload Exploitation
+Command Injection Advanced
+API Hacking Basics
+API Hacking Advanced
+Server-Side Template Injection
+Directory Brute-Forcing Advanced
+WiFi Hacking Intro
+WiFi Hacking WPA2 Enterprise
+Reverse Shell Mastery
+Shell Stabilization Mastery
+Payload Development Basics
+Payload Obfuscation Basics
+Linux Capabilities Abuse
+Cronjob PrivEsc Chains
+SUID Abuse Deep Dive
+Docker PrivEsc Lab
+Container Breakout Lab
+Kubernetes Attacks Intro
+Cloud Hacking Basics
+GCP Exposure Attack Lab
+AWS Misconfig Attack Lab
+Azure AD Misconfig Attack Lab
+Cloud PrivEsc Chains
+Threat Hunting Basics
+Detection Engineering Basics
+Malware Analysis Beginner Lab
+Red Team Ops Initial Access Chain
+Red Team Ops Lateral Movement Chain
+Red Team Ops PrivEsc Chain
+Red Team Ops Data Exfiltration Lab
+Red Team Ops C2 Traffic Lab
+Red Team Ops Covert Channels Lab
+Custom Malware Simulation Lab
+Windows Internals for Red Team
+Windows API Attacks
+Advanced Kerberos Attacks
+AD CS Attacks (ESC1–ESC8)
+BloodHound Analysis Mastery
+Advanced Domain PrivEsc Simulator
+Advanced Pivot Scenarios
+Cloud Red Teaming AWS
+Cloud Red Teaming Azure
+Cloud Red Teaming GCP
+Cloud Lateral Movement Chains
+Blue Team SIEM Mastery Lab
+Blue Team Endpoint Telemetry Mastery
+Blue Team Log Correlation Mastery
+Malware Traffic Analysis
+Ransomware Analysis Lab
+Threat Intelligence Correlation Lab
+SOC Investigation Advanced
+DFIR Memory Forensics Mastery
+DFIR Disk Forensics Mastery
+DFIR Timeline Forensics
+DFIR Malware Case Analysis
+Incident Response Full Scenario
+SOC Automation Lab
+Detection-as-Code Lab
+YARA Detection Lab
+Sigma Rule Creation Lab
+Suricata Rule Creation Lab
+Incident Reporting Simulation
+Blue Team Attack Surface Analysis
+Red Team Campaign Simulation
+Purple Team Exercise Lab
+Deep Web Investigation Lab
+Open Source Intelligence Master Case
+Password Cracking Enterprise Chains
+Hash Cracking Distributed Lab
+Network Forensics Mastery
+Wireshark Expert Challenges
+Traffic Decryption and Analysis
+Zero Trust Attack Simulation
+Cloud DFIR Challenge
+Advanced Malware Reversing Basics
+Enterprise Attack Simulation Final Lab
