@@ -1,0 +1,100 @@
+1. System Update & Patch Automation Script
+2. User Account Provisioning Automation Tool
+3. Linux Password Expiry & Policy Enforcement Script
+4. SSH Key Rotation & Management Automation
+5. Linux Firewall Rule Automation Tool (iptables/nftables)
+6. Log Rotation Automation Script
+7. Disk Usage Monitoring & Cleanup Automation
+8. Linux Backup Automation Engine (rsync-based)
+9. Cron Job Scheduler Manager Script
+10. Linux Service Auto-Restart Script (systemd)
+11. Linux Process Health Monitoring Tool
+12. Real-Time Memory Usage Monitor (CLI)
+13. CPU Temperature & Load Monitoring Script
+14. Linux Inventory Collector (Hardware + Software)
+15. OS Fingerprinting & System Info Automation
+16. Linux File Integrity Monitoring Script
+17. Directory Watcher & Change Notification Tool
+18. Log File Parsing & Alert Generation Engine
+19. SSH Brute Force Detection Automation (Fail2ban Script)
+20. Linux Port Scan Detection Engine
+21. Network Interface Health Monitoring Script
+22. Automated Network Restart & Repair Script
+23. Linux DNS Resolver Test & Auto-Fix Script
+24. Linux Routing Table Analyzer & Optimizer
+25. SSH Multi-Host Command Execution Script
+26. Multi-server Patch Deployment Automation
+27. SSH Login Activity Analyzer
+28. Linux Process Startup Optimization Tool
+29. Linux Boot Log Analyzer
+30. System Uptime & Health Report Generator
+31. Linux SELinux Enforcement Checker
+32. Linux Kernel Parameter Optimization Script
+33. Swap Memory Monitor & Auto-Increaser Script
+34. Linux System Cleanup & Optimization Suite
+35. Linux Cron Job Health Checker
+36. Linux Permission Auditor Script
+37. File & Directory Permission Auto-Fixer
+38. SUID/SGID Detection Automation Tool
+39. Linux Security Baseline Hardening Script
+40. SSH Banner Message Automation Script
+41. Log4j Vulnerability Scanner (Linux)
+42. Linux Process Kill Automation Tool
+43. Failed Login Attempt Analyzer
+44. Linux Privilege Escalation Checker Script
+45. Automatic /var Crash Cleanup Script
+46. Linux Package Vulnerability Scanner
+47. Automated Linux Compliance Checker
+48. Linux Syslog Centralization Tool
+49. Multi-Server SSH Key Distribution Script
+50. Linux LDAP Authentication Setup Automation
+51. Cron-Based File Sync Automation Tool
+52. Linux Backup Verification Script
+53. File Ownership Migration Script
+54. File Hash Comparison Automation
+55. Linux Certificate Expiry Alert Script
+56. Linux Network Latency Analyzer Tool
+57. DNS Zone File Analyzer Script
+58. Linux Host Discovery & Inventory Tool
+59. Linux Netstat Replacement Script (Automation)
+60. Linux Process Priority Auto-Adjuster
+61. Power Failure Auto-Recovery Script
+62. Linux RAID Monitoring Automation
+63. LVM Volume Usage Analyzer
+64. NFS Mount Monitor & Auto-Fix Script
+65. Linux System Snapshot Creator (tar-based)
+66. Package Version Comparator Script
+67. Linux Binary Analysis Automation (strings, ldd)
+68. Linux Malware Indicator Checker (ClamAV automation)
+69. Threat Hunting Script for Linux Logs
+70. Linux Incident Response Collection Tool
+71. Suspicious Cron Job Detector
+72. Suspicious Network Connection Detector
+73. Linux File Activity Monitor (inotify-based)
+74. Linux USB Device Activity Logger
+75. Linux Shell History Analyzer
+76. Linux sudo Misuse Detector
+77. Linux Audit Log Analyzer (ausearch automation)
+78. SSH Session Recorder Automation Script
+79. Bash Script Obfuscation Analyzer
+80. Linux Container Security Scanner (Docker)
+81. Linux Container Runtime Monitor
+82. Linux Resource Limit Auto-Enforcer
+83. Web Server Log Analyzer (Apache/Nginx)
+84. Linux Firewall Log Analyzer
+85. IPv6 Network Analyzer Script
+86. Massive File Organizer Automation Tool
+87. Duplicate File Finder Script
+88. File Versioning Automation Tool
+89. Linux Temp File Cleaner Script
+90. Automated Linux Environment Setup Script
+91. Python + Bash Hybrid Automation Framework
+92. Git Repo Auto-Backup Script
+93. Linux DevOps Deployment Helper
+94. Linux Build Automation Script
+95. Linux-Based System Health Dashboard (Terminal UI)
+96. Linux Endpoint Baseline Generator
+97. Linux Configuration Drift Detector
+98. Linux Hardening Benchmark Checker
+99. Linux Compliance Reporting Engine
+100. Full Enterprise Linux Automation Suite
