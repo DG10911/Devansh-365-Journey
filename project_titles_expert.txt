@@ -1,0 +1,100 @@
+301. Advanced AD Red Team Attack Chain Simulator
+302. Golden Ticket + DCSync Full Attack Simulation
+303. Silver Ticket Forgery & Abuse Lab
+304. Kerberos Delegation Abuse Playground
+305. NTLM Relay Advanced Exploitation Suite
+306. LLMNR/NBNS Poisoning Advanced Lab
+307. Active Directory Forest Trust Exploitation
+308. Advanced BloodHound Path Discovery Automation
+309. Kerberoasting + AS-REP Roasting Advanced Lab
+310. Domain Controller Shadow Credential Attack
+311. Shadow Admin Detection & Exploitation Toolkit
+312. Pass-the-Ticket + Overpass-the-Hash Simulator
+313. Advanced Windows Token Manipulation Lab
+314. LSASS Memory Dumping + Parsing Toolkit
+315. Advanced Credential Theft Automation Suite
+316. RPC & SMB Abuse Toolkit (Expert)
+317. AD CS (Certificate Services) Exploitation Lab
+318. ESC1–ESC8 Certificate Attack Simulation
+319. Advanced GPO Abuse Automation Tool
+320. Active Directory ACL Misconfig Attack Graph Engine
+321. Advanced C2 Infrastructure Simulation (Safe)
+322. Multi-Stage Payload Delivery Framework (Educational)
+323. EDR Evasion Simulation Lab (Strictly Local & Safe)
+324. Code Injection & Process Hollowing Playground
+325. Reflective PE Injection Lab
+326. Advanced PowerShell Obfuscation Detection Toolkit
+327. YARA Rule Generator for Memory Artifacts
+328. Malware Obfuscation & Packing Simulation (Safe)
+329. DGA (Domain Generation Algorithm) Implementation Lab
+330. Malware Network Beaconing Simulator
+331. Ransomware Behavior Simulation (File-safe)
+332. SOC Ransomware Triage Automation Toolkit
+333. Advanced Windows API Abuse Lab
+334. Kernel Callback Monitoring Tool
+335. Advanced Registry Forensics Framework
+336. Advanced Browser Forensics Suite
+337. Cloud DFIR Automation for AWS
+338. Cloud DFIR Automation for Azure
+339. Cloud DFIR Automation for GCP
+340. Kubernetes Incident Response Toolkit
+341. Advanced K8s Attack Detection Framework
+342. Zero Trust Network Analyzer
+343. Insider Threat Detection AI Engine
+344. MITRE ATT&CK Adversary Emulation Suite
+345. Purple Team Attack & Detection Playbook Generator
+346. Sysmon Log Deep Event Analyzer
+347. Windows ETW (Event Tracing for Windows) Analyzer
+348. Netflow Deep Traffic Classification Engine
+349. Deception Technology (Honeypot v2) Deployment Lab
+350. High-Fidelity Honey Token Deployment System
+351. Elastic SIEM Advanced Detection Engineering Lab
+352. Splunk Advanced Threat Hunting Automation
+353. Suricata Advanced IDS Rule Pack Generator
+354. Sigma → Elastic/Splunk Automatic Conversion Engine
+355. Advanced Threat Intelligence Correlation Engine
+356. Shadow IT Discovery Engine
+357. Insider Exfiltration Attack Simulation Lab
+358. Data Exfiltration Detection Framework
+359. DNS Tunneling Detection & Blocking Engine
+360. Advanced SSL/TLS Interception Analyzer
+361. Advanced Network Anomaly Detection ML Model
+362. SOC Investigation Workflow Automation Engine
+363. Cloud-Native Threat Hunting Framework
+364. Advanced SOC Gamified Training Simulator
+365. Endpoint Telemetry Deep Visibility Engine
+366. Windows Event Correlation Attack Graph Builder
+367. Linux Event Correlation Attack Graph Builder
+368. Multi-Cloud Attack Surface Discovery Engine
+369. Advanced OSINT Deep Social Mapping Toolkit
+370. OSINT Facial Recognition Automation Lab
+371. OSINT Media Forensics (Image/Video) Toolkit
+372. Dark Web Monitoring Tool (Safe)
+373. ATM & POS Security Simulation Lab
+374. SCADA/ICS Attack Simulation Framework (Safe)
+375. IoT Network Attack Surface Analyzer
+376. BLE (Bluetooth LE) Security Testing Lab
+377. RFID/NFC Security Attack Simulator (Safe)
+378. Wireless Spectrum Analyzer (5GHz/2.4GHz)
+379. Advanced MITM (Man-In-The-Middle) Simulator
+380. Enterprise Firewall Rule Misconfig Detector
+381. Advanced Load Balancer Attack Simulation Lab
+382. API Gateway Attack & Abuse Lab
+383. Zero-Day Discovery Simulation Toolkit (Safe)
+384. Browser Exploitation Framework (Local Sandbox)
+385. PDF Exploit Simulation Analyzer
+386. Macro-based Attack Simulation Lab
+387. Email Phishing Campaign Simulator (Safe)
+388. SPF/DMARC/BIMI Analyzer
+389. Supply Chain Integrity Checker (Expert Version)
+390. CI/CD Pipeline Attack Simulation Toolkit
+391. IaC Drift Detection & Enforcement Engine
+392. Private PKI Exploitation Research Lab
+393. Secure Boot Bypass Simulation (Safe Lab)
+394. Hardware Security Attack Surface Mapping Tool
+395. Firmware Analysis Toolkit (Beginner → Expert)
+396. Memory Dump Clustering & Malware Profiling Tool
+397. Behavioral Malware Triage Engine
+398. Enterprise Compromise Assessment Toolkit
+399. Advanced Purple Team Automation Framework
+400. Enterprise Cyber Range Simulator (Fully Custom)
