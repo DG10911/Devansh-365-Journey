@@ -1,0 +1,100 @@
+1. AWS IAM Privilege Escalation Path Finder
+2. AWS S3 Sensitive Data Exposure Detector
+3. AWS EC2 Metadata Service Exploitation Lab
+4. AWS CloudTrail Threat Correlation Engine
+5. AWS Lambda Vulnerability Testing Lab
+6. AWS Secrets Manager Enumeration Toolkit
+7. AWS KMS Key Abuse Detection Suite
+8. AWS Cognito Misconfiguration Detector
+9. AWS API Gateway Abuse Simulation Lab
+10. AWS Organizations Attack Surface Analyzer
+11. AWS VPC Traffic Mirror Threat Hunting Lab
+12. AWS GuardDuty Alert Simulation Generator
+13. AWS WAF Bypass Testing Framework
+14. AWS ECR Container Registry Security Analyzer
+15. AWS RDS Misconfiguration Detection Lab
+16. AWS CloudFront Abuse Detection Tool
+17. AWS SQS/SNS Security Testing Toolkit
+18. AWS Step Functions Abuse Simulation Lab
+19. AWS EKS Runtime Security Analyzer
+20. AWS S3 Ransomware Simulation Engine
+21. GCP IAM Privilege Escalation Analyzer
+22. GCP Cloud Storage Public Access Scanner
+23. GCP BigQuery Sensitive Data Exposure Detector
+24. GCP Cloud Run Escalation Attack Lab
+25. GCP Cloud Functions Misconfiguration Scanner
+26. GCP Metadata Server Exploitation Simulator
+27. GCP KMS Key Misuse Detection Tool
+28. GCP VPC Firewall Attack Surface Analyzer
+29. GCP Artifact Registry Security Scanner
+30. GCP Pub/Sub Abuse Simulation Lab
+31. GCP Container Analysis Automation Tool
+32. GCP Chronicle Detection Engineering Lab
+33. Azure AD Privilege Escalation Mapping Tool
+34. Azure Storage Account Public Exposure Scanner
+35. Azure Key Vault Secret Leakage Detector
+36. Azure Function App Security Analyzer
+37. Azure Logic Apps Misconfiguration Lab
+38. Azure API Management Attack Simulation
+39. Azure AD Token Forgery Attack Lab
+40. Azure Defender Alert Generator
+41. Azure SQL Database Security Analyzer
+42. Azure Kubernetes Service Runtime Security Lab
+43. Azure VM Extension Abuse Attack Simulator
+44. Azure Blob SAS Token Misuse Detection
+45. Azure Resource Graph Attack Surface Mapper
+46. Azure Conditional Access Misconfiguration Analyzer
+47. Azure Network Security Group Exposure Detector
+48. Azure App Service Exploitation Lab
+49. Azure DevOps Pipeline Security Analyzer
+50. Azure Data Factory Attack Simulation Lab
+51. Kubernetes RBAC Privilege Escalation Lab
+52. Kubernetes Secret Leakage Detection Engine
+53. Kubernetes Pod Escape Simulation Lab
+54. Kubernetes Network Policy Attack Lab
+55. Kubernetes Admission Controller Bypass Toolkit
+56. Kubernetes Supply Chain Attack Analyzer
+57. Kubernetes Cluster Drift Detection Tool
+58. Kubernetes Container Breakout Simulation
+59. Kubernetes Multi-Cluster Attack Surface Mapper
+60. Kubernetes Forensics Automation Toolkit
+61. Docker Sandbox Escape Simulation
+62. Container Image Malware Detection Tool
+63. Container Registry Misconfiguration Analyzer
+64. Container Escape Behavior Detection Engine
+65. Dockerfile Misconfiguration Scanner
+66. OCI Artifact Supply Chain Analyzer
+67. Cloud Red Team Attack Chain Simulator
+68. Multi-Cloud IAM Attack Surface Analyzer
+69. Multi-Cloud API Abuse Detection Suite
+70. Multi-Cloud Threat Hunting Automation Engine
+71. Multi-Cloud Security Baseline Generator
+72. Multi-Cloud Asset Inventory Engine
+73. Multi-Cloud Credential Exposure Detector
+74. Zero Trust Policy Drift Detection Tool
+75. Zero Trust Traffic Analyzer
+76. Zero Trust Identity Anomaly Detection Engine
+77. Serverless Injection Attack Simulator
+78. Serverless SSRF Attack Lab
+79. Serverless Privilege Escalation Playground
+80. Serverless Supply Chain Attack Analyzer
+81. Cloud DFIR Memory Acquisition Toolkit
+82. Cloud DFIR Storage Forensics Analyzer
+83. Cloud DFIR Network Forensics Engine
+84. Cloud DFIR IAM Forensics Toolkit
+85. Cloud DFIR Timeline Generator
+86. Cloud Log Normalization & Correlation Tool
+87. Cloud SIEM Detection Rule Generator
+88. Cloud Threat Intelligence Correlation Engine
+89. Cloud Ransomware Behavior Analyzer
+90. Cloud Malware Traffic Analyzer
+91. Cloud Blueprint Drift Detection Engine
+92. Cloud Shadow IT Detection Tool
+93. Cloud Insider Threat Detection Toolkit
+94. Cloud Egress Traffic Anomaly Detector
+95. Cloud Web Application Attack Simulator
+96. Cloud Identity Federation Misuse Detector
+97. Cloud Secret Sprawl Detector
+98. Cloud Encryption Enforcement Checker
+99. Cloud Security Posture Automation Engine
+100. Cloud Attack Surface Expansion Monitor
